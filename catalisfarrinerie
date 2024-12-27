@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Catalis - Raffinerie de Pétrole</title>
+<style>
+       body {
+           font-family: Arial, sans-serif;
+           margin: 0;
+           padding: 0;
+           color: #333;
+       }
+       header {
+           background-color: #002244;
+           color: white;
+           padding: 20px 0;
+           text-align: center;
+       }
+       header h1 {
+           margin: 0;
+       }
+       nav {
+           background-color: #004488;
+           padding: 10px 0;
+       }
+       nav ul {
+           list-style: none;
+           margin: 0;
+           padding: 0;
+           display: flex;
+           justify-content: center;
+       }
+       nav ul li {
+           margin: 0 15px;
+       }
+       nav ul li a {
+           color: white;
+           text-decoration: none;
+       }
+       section {
+           padding: 20px;
+           text-align: center;
+       }
+       .hero {
+           background: url('https://via.placeholder.com/1920x600') no-repeat center center/cover;
+           color: white;
+           padding: 50px 20px;
+       }
+       .hero h2 {
+           font-size: 2.5em;
+       }
+       footer {
+           background-color: #002244;
+           color: white;
+           text-align: center;
+           padding: 10px 0;
+       }
+</style>
+</head>
+<body>
+<header>
+<h1>Catalis</h1>
+<p>Transformer l'énergie pour un monde durable</p>
+</header>
+<nav>
+<ul>
+<li><a href="#accueil">Accueil</a></li>
+<li><a href="#activites">Nos Activités</a></li>
+<li><a href="#impact">Impact & Innovations</a></li>
+<li><a href="#contact">Contact</a></li>
+</ul>
+</nav>
+<section id="accueil" class="hero">
+<h2>Bienvenue chez Catalis</h2>
+<p>Découvrez comment nous transformons l'énergie avec responsabilité et innovation.</p>
+</section>
+<section id="activites">
+<h2>Nos Activités</h2>
+<p>Chez Catalis, nous raffinons le pétrole pour produire l'énergie qui alimente le monde tout en nous engageant à réduire notre empreinte écologique.</p>
+</section>
+<section id="impact">
+<h2>Impact & Innovations</h2>
+<p>Notre mission est de combiner performance énergétique et durabilité grâce à des solutions innovantes.</p>
+</section>
+<section id="contact">
+<h2>Contactez-nous</h2>
+<p>Email : contact@catalis.com</p>
+<p>Téléphone : +33 1 23 45 67 89</p>
+<p>Adresse : 123 Rue de l'Énergie, Paris, France</p>
+</section>
+<footer>
+<p>&copy; 2024 Catalis. Tous droits réservés.</p>
+</footer>
+</body>
+</html>
+Dispose d’un menu contextuel
